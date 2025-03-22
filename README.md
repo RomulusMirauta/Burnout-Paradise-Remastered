@@ -12,7 +12,7 @@
 
 <br>
 
-## This is a  centralized repository of INFO, MODS, PATCHES and TOOLS for the game <br> `Burnout` `Paradise` `Remastered` *`(PC version)`* <br>
+## This is a  centralized repository of INFO, MODS, PATCHES and TOOLS for the game `Burnout Paradise Remastered` *`(PC version)`* <br>
 
 <br>
 

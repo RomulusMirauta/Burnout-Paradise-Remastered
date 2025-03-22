@@ -33,7 +33,7 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
       https://www.ea.com/games/burnout/burnout-paradise-remastered
 
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Burnout_Paradise_Remastered)
-- [STEAM - Map Update - Burnout Paradise Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=2513119453)
+- [Steam Community: Map Update - Burnout Paradise Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=2513119453)
 
 - YouTube Links
   - [Old To The New - "Restoration Season" Trailer | Burnout Paradise Remastered](https://www.youtube.com/watch?v=zEr__N5fp9Q)
@@ -57,16 +57,14 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
 
 <br>
 
-
 ## III. My addition: MOD Uninstaller Script
 *(I am planning to create a GUI for it, in the near future)*
 
 ### Instructions:
-1. download and start the script from here: [MOD_Uninstaller_Script.ps1](https://raw.githubusercontent.com/RomulusMirauta/bpr-bugs/main/MOD_Uninstaller_Script/MOD_Uninstaller_Script.ps1)
+1. download and execute the script from here: [MOD_Uninstaller_Script.ps1](https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/main/MOD_Uninstaller_Script/MOD_Uninstaller_Script.ps1) *(right-click and choose "Save link as...")*
 2. 
 
 <br>
-
 
 ## IV. MODs and associated content
 

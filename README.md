@@ -10,7 +10,7 @@
     alt="Burnout_Paradise_Remastered_Splash_Art" />
 </a>
 
-<br>
+<br><br>
 
 ## This is a  centralized repository of INFO, MODS, PATCHES and TOOLS for the game `Burnout Paradise Remastered` *`(PC version)`* <br>
 

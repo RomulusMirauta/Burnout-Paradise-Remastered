@@ -46,7 +46,7 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
 
 ### *Bo Anderson's [(Bo98)](https://github.com/Bo98/bpr-bugs) BPR Modder:*
 - [Official link](https://bpr.bo98.uk/)
-- it also contains 3 MODs
+- It also contains 3 MODs
   - Core Bugfixes (v0.2.1)
   - Traffic Toggle (v1.0)
   - Language Unlocker (v1.0)
@@ -61,9 +61,10 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
 *(I am planning to create a GUI for it, in the near future)*
 
 ### Instructions:
-1. download the script from here: [MOD_Uninstaller_Script.ps1](https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/main/MOD_Uninstaller_Script/MOD_Uninstaller_Script.ps1) *(right-click and choose "Save link as...")*
-2. execute the script *(right-click and choose "Run with PowerShell")*
-3. follow the on-screen instructions
+1. Download the script from here: [MOD_Uninstaller_Script.ps1](https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/main/MOD_Uninstaller_Script/MOD_Uninstaller_Script.ps1) *(right-click and choose "Save link as...")*
+2. Execute the script *(right-click and choose "Run with PowerShell")*
+3. *If prompted, click Open*
+4. Follow the on-screen instructions
 
 <br>
 

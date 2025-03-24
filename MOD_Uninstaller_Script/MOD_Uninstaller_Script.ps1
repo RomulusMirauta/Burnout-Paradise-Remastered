@@ -3,7 +3,7 @@
 $WelcomeMessage = @"
 
 ***************************************
-        🏁  Welcome, racers! 🏁
+        🏁 Welcome, racers! 🏁
 ***************************************
 
 This PowerShell Script will help you remove MODs installed through BPR Modder, for the game Burnout Paradise Remastered (PC version).

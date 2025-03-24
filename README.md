@@ -32,19 +32,32 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
   - EA App *(Origin is deprecated now)* <br>
       https://www.ea.com/games/burnout/burnout-paradise-remastered
 
+<br>
+
 - YouTube Links
   - [Old To The New - "Restoration Season" Trailer | Burnout Paradise Remastered](https://www.youtube.com/watch?v=zEr__N5fp9Q)
   - [Expanded Map, Free Camera, Portable Junkyard | Burnout Paradise Remastered Mods](https://www.youtube.com/watch?v=QwK0bMuC_rI)
   - [Burnout Paradise But We Play at Super Speed #shorts](https://www.youtube.com/shorts/HxXRZgTffJg)
 
+<br>
+
 - Steam Community
     - [Map Update - Burnout Paradise Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=2513119453)
     - [Historical Repository of Creations](https://steamcommunity.com/sharedfiles/filedetails/?id=2861222300)
 
-- [Google Drive - Historical Repository of Creations](https://drive.google.com/drive/folders/1VBAyB1Vpm981tBZRprcGHrl6xzkSBaCV)
-- [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Burnout_Paradise_Remastered)
-- [Nexus Mods](https://www.nexusmods.com/games/burnoutparadise/mods)
-- [GameBanana](https://gamebanana.com/games/7098)
+<br>
+
+- Others
+    - [Google Drive - Historical Repository of Creations](https://drive.google.com/drive/folders/1VBAyB1Vpm981tBZRprcGHrl6xzkSBaCV)
+    - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Burnout_Paradise_Remastered)
+    - [Nexus Mods](https://www.nexusmods.com/games/burnoutparadiseremastered)
+
+<br>
+
+- Links for OG-only Versions *(Burnout Paradise / Burnout Paradise: The Ultimate Box)*
+    - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Burnout_Paradise)
+    - [Nexus Mods](https://www.nexusmods.com/games/burnoutparadise/mods)
+    - [GameBanana](https://gamebanana.com/games/7098)
 
 <br>
 

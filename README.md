@@ -61,8 +61,9 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
 *(I am planning to create a GUI for it, in the near future)*
 
 ### Instructions:
-1. download and execute the script from here: [MOD_Uninstaller_Script.ps1](https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/main/MOD_Uninstaller_Script/MOD_Uninstaller_Script.ps1) *(right-click and choose "Save link as...")*
-2. 
+1. download the script from here: [MOD_Uninstaller_Script.ps1](https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/main/MOD_Uninstaller_Script/MOD_Uninstaller_Script.ps1) *(right-click and choose "Save link as...")*
+2. execute the script *(right-click and choose "Run with PowerShell")*
+3. follow the on-screen instructions
 
 <br>
 

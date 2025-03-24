@@ -58,7 +58,9 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
 <br>
 
 ## III. My addition: MOD Uninstaller Script
-*(I am planning to create a GUI for it, in the near future)*
+
+- [x] [The BPR Modder Tool does not have an uninstall option](https://github.com/RomulusMirauta/bpr-bugs/issues/1) `#1`
+- [ ] Create a GUI for the MOD Uninstaller
 
 ### Instructions:
 1. Download the script from here: [MOD_Uninstaller_Script.ps1](https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/main/MOD_Uninstaller_Script/MOD_Uninstaller_Script.ps1) *(right-click and choose "Save link as...")*
@@ -119,4 +121,5 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
 <br>
 
 ## V. Disclaimer
-***I do not claim ownership of any content created or shared by others - that is linked or referenced in this repository. All rights remain with the original creators. If you believe any content here violates intellectual property rights or other guidelines, please feel free to reach out, and I will address the issue promptly.***
+> [!NOTE]
+> ***I do not claim ownership of any content created or shared by others - that is linked or referenced in this repository. All rights remain with the original creators. If you believe any content here violates intellectual property rights or other guidelines, please feel free to reach out, and I will address the issue promptly.***

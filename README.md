@@ -89,6 +89,26 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
 
 <br>
 
+> [!IMPORTANT]
+> **If the script executes but the window closes by itself, it means that the current Windows User is not allowed to run scripts.**
+> 
+> **Here's how to solve this:**
+> 1. Open PowerShell's CLI *(click on Windows' Start button - type "powershell" - right-click and choose "Run as administrator")*
+> 2. Copy the following command:
+> ```ps1
+> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
+> ```
+> 3. Paste the command into the previously opened window
+> 4. Press `Enter`
+> 5. Attempt to start the MOD Uninstaller Script again
+> 
+> <br> **In order to revert the previously made changes, you can run this PowerShell command:**
+>    ```ps1
+>    Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope CurrentUser -Force
+>    ```
+
+<br>
+
 ## IV. MODs and associated content
 
 ### 1. Community MODs:

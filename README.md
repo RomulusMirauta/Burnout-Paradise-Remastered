@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/refs/heads/main/Burnout_Paradise_Remastered_Splash_Art.jpg">
+<a href="https://store.steampowered.com/app/1238080/Burnout_Paradise_Remastered/">
   <img align="center"
     src="https://raw.githubusercontent.com/RomulusMirauta/Burnout-Paradise-Remastered/refs/heads/main/Burnout_Paradise_Remastered_Splash_Art.jpg"
     alt="Burnout_Paradise_Remastered_Splash_Art" />

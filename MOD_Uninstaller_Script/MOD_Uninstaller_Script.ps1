@@ -1,4 +1,3 @@
-
 # Welcome message
 $WelcomeMessage = @"
 
@@ -127,7 +126,7 @@ if ($Choice -match '^\d+$' -and [int]$Choice -ge 1 -and [int]$Choice -le $Instal
             Remove-Item "$ModsPath\brick-remastered" -Force -Recurse
 
             $PropertyToDelete = "brick-remastered"
-            Remove-ItemProperty -Path $RegistryPath -Name $PropertyToDelete
+            Remove-ItemProperty -Path $RegistryPath -Name $PropertyToDelete -ErrorAction SilentlyContinue
 
             Write-Host "`nBrick Remastered MOD was successfully uninstalled." -ForegroundColor Green
         }
@@ -136,7 +135,7 @@ if ($Choice -match '^\d+$' -and [int]$Choice -ge 1 -and [int]$Choice -le $Instal
             Remove-Item "$ModsPath\core-bugfixes.bprmod" -Force -Recurse
 
             $PropertyToDelete = "core-bugfixes"
-            Remove-ItemProperty -Path $RegistryPath -Name $PropertyToDelete
+            Remove-ItemProperty -Path $RegistryPath -Name $PropertyToDelete -ErrorAction SilentlyContinue
 
             Write-Host "`nCore Bugfixes MOD was successfully uninstalled." -ForegroundColor Green
         }
@@ -146,7 +145,7 @@ if ($Choice -match '^\d+$' -and [int]$Choice -ge 1 -and [int]$Choice -le $Instal
             Remove-Item "$ModsPath\language-unlocker" -Force -Recurse
 
             $PropertyToDelete = "language-unlocker"
-            Remove-ItemProperty -Path $RegistryPath -Name $PropertyToDelete
+            Remove-ItemProperty -Path $RegistryPath -Name $PropertyToDelete -ErrorAction SilentlyContinue
 
             Write-Host "`nLanguage Unlocker MOD was successfully uninstalled." -ForegroundColor Green
         }
@@ -155,7 +154,7 @@ if ($Choice -match '^\d+$' -and [int]$Choice -ge 1 -and [int]$Choice -le $Instal
             Remove-Item "$ModsPath\traffic-toggle.bprmod" -Force -Recurse
             
             $PropertyToDelete = "traffic-toggle"
-            Remove-ItemProperty -Path $RegistryPath -Name $PropertyToDelete
+            Remove-ItemProperty -Path $RegistryPath -Name $PropertyToDelete -ErrorAction SilentlyContinue
 
             Write-Host "`nTraffic Toggle MOD was successfully uninstalled." -ForegroundColor Green
         }

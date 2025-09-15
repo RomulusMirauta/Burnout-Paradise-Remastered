@@ -161,4 +161,4 @@ V.   [**Disclaimer**](https://github.com/RomulusMirauta/Burnout-Paradise-Remaste
 
 ## V. Disclaimer
 > [!NOTE]
-> ***I do not claim ownership of any content created or shared by others - that is linked or referenced in this repository. All rights remain with the original creators. If you believe any content here violates intellectual property rights or other guidelines, please feel free to reach out, and I will address the issue promptly.***
+> ***I do not claim ownership of any content created or shared by other devs - content that is linked or referenced in this repository. All rights remain with the original creators. If you believe any content here violates intellectual property rights or other guidelines, please feel free to reach out, and I will address the issue promptly.***

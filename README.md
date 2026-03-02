@@ -17,11 +17,11 @@
 <br>
 
 ## Table of Contents
-I. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Useful Links](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#i-useful-links) <br>
-II. &nbsp;&nbsp;&nbsp;&nbsp; [Base for MODs *(Prerequisite)*](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#ii-base-for-mods-prerequisite) <br>
-III. &nbsp;&nbsp;&nbsp; [My addition: MOD Uninstaller Script](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#iii-my-addition-mod-uninstaller-script) <br>
-IV. &nbsp;&nbsp;&nbsp; [MODs and associated content](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#iv-mods-and-associated-content) <br>
-V. &nbsp;&nbsp;&nbsp;&nbsp; [Disclaimer](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#v-disclaimer) <br>
+I. &nbsp;&nbsp;&nbsp; [Useful Links](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#i-useful-links) <br>
+II. &nbsp;&nbsp; [Base for MODs *(Prerequisite)*](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#ii-base-for-mods-prerequisite) <br>
+III. &nbsp; [My addition: MOD Uninstaller Script](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#iii-my-addition-mod-uninstaller-script) <br>
+IV. &nbsp; [MODs and associated content](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#iv-mods-and-associated-content) <br>
+V. &nbsp;&nbsp; [Disclaimer](https://github.com/RomulusMirauta/Burnout-Paradise-Remastered#v-disclaimer) <br>
 
 <br>
 
